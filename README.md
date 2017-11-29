@@ -1,6 +1,10 @@
-# draggable
+# Sortable 
 
 > A Vue.js project
+
+Instalo : https://sagalbot.github.io/vue-sortable/
+
+Solución al erro: Comentario #10: https://github.com/sagalbot/vue-sortable/issues/10#issuecomment-272709457
 
 ## Build Setup
 
