@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-        <h1>VueSortable</h1>
+        <h1>Pruebas con Sortable de los Cuyons ;-)</h1>
           <ul v-sortable class="list-group">
             <li class="list-group-item">Maria</li>
             <li class="list-group-item">Lemmy</li>
